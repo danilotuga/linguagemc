@@ -3,6 +3,7 @@
   <Description/>
   <Dependencies/>
   <VirtualDirectory Name="src">
+    <File Name=".gitignore"/>
     <File Name="pessoa.h"/>
     <File Name="pessoa.c"/>
     <File Name="main.c"/>

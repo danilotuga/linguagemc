@@ -1,0 +1,18 @@
+# Ignora arquivos binários e objetos de compilação
+*.o
+*.out
+*.exe
+
+# Ignora arquivos temporários de backup do editor
+*~
+*.swp
+
+# Ignora arquivos de log
+debug.log
+
+# Ignora executáveis gerados
+debug/
+programa
+
+build-Debug/
+.cache/
