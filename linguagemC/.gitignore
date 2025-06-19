@@ -2,6 +2,14 @@
 *.o
 *.out
 *.exe
+*.mk
+
+.dist/
+.build-Debug/
+.codelite/
+-p/
+makefile
+
 
 # Ignora arquivos temporários de backup do editor
 *~
